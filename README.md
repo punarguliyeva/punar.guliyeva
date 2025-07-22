@@ -23,4 +23,5 @@ Feel free to connect with me at ✉️ punar.guliyeva@gmail.com
 
 | Stats | Languages |
 |-------|-----------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=punar-guliyeva&show_icons=true&hide_border=true&count_private=true&include_all_commits=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punar-guliyeva&layout=compact&hide_border=true) |
+![Punar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=punar-guliyeva&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punar-guliyeva&layout=compact&hide_border=true&theme=default)
