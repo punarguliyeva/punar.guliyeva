@@ -11,15 +11,5 @@ Feel free to connect with me at ✉️ punar.guliyeva@gmail.com
 
 ---
 
-## 🛠️ Skills
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punarguliyeva&layout=compact&hide_border=true)
 
-- Java, Spring Boot, Hibernate  
-- JavaScript, Vue.js  
-- MySQL, SQL  
-- Git, GitHub, Docker  
-
----
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=punar.guliyeva&layout=compact)
