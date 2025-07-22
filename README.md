@@ -9,7 +9,4 @@ I’m a Fullstack Developer who loves building applications and solving real-wor
 
 Feel free to connect with me at ✉️ punar.guliyeva@gmail.com
 
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punarguliyeva&layout=compact&hide_border=true)
 
